@@ -6,7 +6,7 @@
 ```
 angular.module("starter.templates").run(["$templateCache",
   function($templateCache) {
-    $templateCache.put("searchmachines.html",
+    $templateCache.put("searchmachines.html2",
         // searchmachines.html content
     );
     // etc.

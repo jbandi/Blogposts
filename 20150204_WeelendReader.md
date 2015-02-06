@@ -8,7 +8,8 @@ tags: weekendreader, javascript
 The current state of agile is critizised by some more prominent figures:
 Martin Fowler: [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII)
 
-    Developers should not just be passive receivers of product backlog items. This is where most Agile transitions fail.
+> Developers should not just be passive receivers of product backlog
+> items. This is where most Agile transitions fail.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4E3xfR6IBII" frameborder="0" allowfullscreen></iframe>
 <br/>
@@ -31,7 +32,8 @@ On a side note, the [React Native presentation](https://www.youtube.com/watch?v=
 ### The JavaScript ecosystem is broken
 In the interesting article [Generation Javascript](http://manuel.bernhardt.io/2014/12/30/generation-javascript/) the desolate state of the JavaScript ecosystem is revealed.
 
-    Not every week-end project should be made public and available through Bower. The Javascript community needs to learn to filter itself.
+> Not every week-end project should be made public and available through
+> Bower. The Javascript community needs to learn to filter itself.
 
 <blockquote class="twitter-tweet" lang="en"><p>Being a JavaScript developer in 2014 is like speed dating.&#10;&#10;45 seconds with each framework before you have to re-write.</p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/544815596932968448">December 16, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -41,12 +43,18 @@ In the same direction goes: [Why we should stop using Grunt & Gulp](http://blog.
 ### Client Side Templating: Good or Bad?
 There has been some recent discussion about client side templating (like it is done by most modern JavaScript frameworks like Angular, Ember and also React):
 
-The challenge was [The problem with Angular](http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html) and [Angular and templating](http://www.quirksmode.org/blog/archives/2015/01/angular_and_tem.html)
+The challenge was 
+- [The problem with Angular](http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html) 
+- [Angular and templating](http://www.quirksmode.org/blog/archives/2015/01/angular_and_tem.html)
 
-It reminded me of a debate from some years ago: [Progressive Enhancement is Dead](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)  which triggered some reactions:  
-[Progressive Enhancement: Still Not Dead](http://thatemil.com/blog/2013/07/02/progressive-enhancement-still-not-dead/), [Progressive enhancement is still important](http://jakearchibald.com/2013/progressive-enhancement-still-important/) and [Progressive enhancement is faster](http://jakearchibald.com/2013/progressive-enhancement-is-faster/)
+It reminded me of a debate from some years ago: 
+- [Progressive Enhancement is Dead](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)  
+- [Progressive Enhancement: Still Not Dead](http://thatemil.com/blog/2013/07/02/progressive-enhancement-still-not-dead/), 
+- [Progressive enhancement is faster](http://jakearchibald.com/2013/progressive-enhancement-is-faster/)
 
-This time there was a very interesting reaction: [Experimentally verified: "Why client-side templating is wrong"](http://www.onebigfluke.com/2015/01/experimentally-verified-why-client-side.html) . I like the conclusion that is backed up by data: **For typical (line of business) web applications the advantages of the client-side rendering approach outweight the disadvantages by far**. For public facing sites, where displaying initial content matters and functionality is only a second aspect, client-side rendering can be slower and optimizations with server-side rendering can be worth the effort.
+This time there was a very interesting reaction: 
+- [Experimentally verified: "Why client-side templating is wrong"](http://www.onebigfluke.com/2015/01/experimentally-verified-why-client-side.html) . 
+I like the conclusion that is backed up by data: **For typical (line of business) web applications the advantages of the client-side rendering approach outweight the disadvantages by far**. For public facing sites, where displaying initial content matters and functionality is only a second aspect, client-side rendering can be slower and optimizations with server-side rendering can be worth the effort.
 
 
 

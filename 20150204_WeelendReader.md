@@ -72,6 +72,6 @@ To get started quickly with using ES6 now, this is a good tutorial: [Javascript 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iukBMY4apvI" frameborder="0" allowfullscreen></iframe>
 
 ###Learning Promises
-Promises in JavaScript are not the easiest consept to grasp. However due to the asynchronous nature of JavaScript  they are a very important concept, that can and should have a major impact on the architecture and structure of JavaScript applications. I learned a lot from the following presentation: [Promise-Based Architecture](https://www.youtube.com/watch?v=uUj-J3oUmOw)
+Promises in JavaScript are not the easiest concept to grasp. However due to the asynchronous nature of JavaScript  they are a very important concept, that can and should have a major impact on the architecture and structure of JavaScript applications. I learned a lot from the following presentation: [Promise-Based Architecture](https://www.youtube.com/watch?v=uUj-J3oUmOw)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uUj-J3oUmOw" frameborder="0" allowfullscreen></iframe>

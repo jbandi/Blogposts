@@ -8,8 +8,7 @@ tags: weekendreader, javascript
 The current state of agile is critizised by some more prominent figures:
 Martin Fowler: [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII)
 
-> Developers should not just be passive receivers of product backlog
-> items. This is where most Agile transitions fail.
+> Developers should not just be passive receivers of product backlog items. This is where most Agile transitions fail.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4E3xfR6IBII" frameborder="0" allowfullscreen></iframe>
 <br/>
@@ -32,8 +31,7 @@ On a side note, the [React Native presentation](https://www.youtube.com/watch?v=
 ### The JavaScript ecosystem is broken
 In the interesting article [Generation Javascript](http://manuel.bernhardt.io/2014/12/30/generation-javascript/) the desolate state of the JavaScript ecosystem is revealed.
 
-> Not every week-end project should be made public and available through
-> Bower. The Javascript community needs to learn to filter itself.
+> Not every week-end project should be made public and available through Bower. The Javascript community needs to learn to filter itself.
 
 <blockquote class="twitter-tweet" lang="en"><p>Being a JavaScript developer in 2014 is like speed dating.&#10;&#10;45 seconds with each framework before you have to re-write.</p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/544815596932968448">December 16, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

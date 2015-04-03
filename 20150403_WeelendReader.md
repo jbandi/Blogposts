@@ -5,7 +5,7 @@ tags: weekendreader, javascript, jobs
 
 <img class="jb-main-img" property="og:image"  src="https://lh5.googleusercontent.com/-swZWub14X5c/VR7nUbDNBqI/AAAAAAAACJI/9Mg63bRhhsg/s800/WeekendReaderEaster.png" width="600px"/>
 
-### [Scrum critics](http://gilesbowkett.blogspot.com.au/2014/09/why-scrum-should-basically-just-die-in.html)
+### [Scrum Critics](http://gilesbowkett.blogspot.com.au/2014/09/why-scrum-should-basically-just-die-in.html)
 
 Gilles Bowkett is quite provocative, but his points in [Why Scrum Should Basically Just Die In A Fire](http://gilesbowkett.blogspot.com.au/2014/09/why-scrum-should-basically-just-die-in.html) are interesting:
 

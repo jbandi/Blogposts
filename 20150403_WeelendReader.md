@@ -51,7 +51,7 @@ But the rant contains an interesting theory: Angular and React are actually a re
 I find that theory very interesting, and it is one reasonable explanation why companies are investing in developing open-source frameworks.
 
 
-### [Yet another Facebook framework](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
+### [Relay: Yet another Facebook framework](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 Speaking of companies releasing frameworks: After [React](https://facebook.github.io/react/) and [Flux](https://facebook.github.io/flux/) and the announcement of [React Native](http://www.reactnative.com/) the next announced open-source framework out of Facebook is [Relay](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html).
 Relay is an interesting proposition how to solve a classical "mash-up" problem: UI-elements and backend are inherently coupled, since the UI-elements render data that is provided by the backend. In a "componentized" UI the UI-elements should be decoupled from each other, so it is easy to add or remove elements from the UI. However with the traditional separation between frontend and backend, each change in the UI composition leads to changes in the backend, since the UI needs different data. Relay and GraphQL tries to solve the problem with a generic server that can serve any data requests and a protocol that allows UI-elements to delclare what data they need. 
 Looks intersting, however I am always afraid of generic solutions ...

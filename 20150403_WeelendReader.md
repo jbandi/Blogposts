@@ -65,7 +65,7 @@ I have been in many projects, where there were endless discussions about version
 ### [Amazon vs. Google vs. Facebook vs. Apple](https://www.youtube.com/embed/XCvwCcEP74Q)
 (via [fime's weekend reader](http://fime.ch/article/weekendreader2015-12.html))
 
-An impresseive analysis of the leading four digital companies. A lot of information in 15 min, but if I understand the prediction correctly we should not bet on Amazon and Google...
+An impresseive analysis of the leading four digital companies. A lot of information in 15 min, but if I understand the prediction correctly, we should not bet on Amazon and Google...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCvwCcEP74Q" frameborder="0" allowfullscreen></iframe>
 

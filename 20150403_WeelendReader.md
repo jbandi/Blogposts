@@ -26,8 +26,8 @@ I find it hard to believe that there are "celebrity programmers" that make over 
 
 
 ### Anguar 2.0 is taking shape
-The biggest news for me from ng-conf 2015 is that Angular 2 is developed in [TypeScript](http://www.typescriptlang.org/), and that the suggested way to develop Angular 2 apps will be to use TypeScript. I guess this finally motivates me to learn this language  ...
-To get an overview of whats coming and the design and motivation behind Angular 2 I suggest watching the Keynote from Misko Hevery. Angular 2 makes a much cleaner impression, neatly designed around some consistent concepts, compared to the organically grown first version of Angular.
+The biggest news for me from [ng-conf 2015](https://www.youtube.com/playlist?list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7) is that Angular 2 is developed in [TypeScript](http://www.typescriptlang.org/), and that the suggested way to develop Angular 2 apps will be to use TypeScript. I guess this finally motivates me to learn this language  ...
+To get an overview of whats coming and the design and motivation behind Angular 2 I suggest watching the [Keynote from Misko Hevery](https://www.youtube.com/embed/-dMBcqwvYA0). Angular 2 makes a much cleaner impression, neatly designed around some consistent concepts, compared to the organically grown first version of Angular.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-dMBcqwvYA0" frameborder="0" allowfullscreen></iframe>
 
 ### Wat? - Geek Humor

@@ -34,7 +34,7 @@ More links for that topis:
 - [The State of Desktop Applications in Node.js](https://nodesource.com/blog/node-desktop-applications)
 
 
-### [There is hope for Java](http://blog.paralleluniverse.co/2014/05/01/modern-java/)
+### [There is Hope for Java](http://blog.paralleluniverse.co/2014/05/01/modern-java/)
 Traditional Java development has grown old and cumbersome compared with many other platforms/languages and it has a hard time keeping up with many current software developement trends.
 
 <blockquote class="twitter-tweet" lang="en"><p>Trying to do modern web development with the traditional Java approach (WAR, Maven) seems to be the ultimate productivity killer ...</p>&mdash; Jonas Bandi (@jbandi) <a href="https://twitter.com/jbandi/status/584334301086482434">April 4, 2015</a></blockquote>

@@ -1,4 +1,3 @@
-
 ---
 tags: weekendreader, javascript, jobs
 ---

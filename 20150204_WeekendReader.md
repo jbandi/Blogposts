@@ -9,7 +9,7 @@ tags: weekendreader, javascript, jobs
 The hype curve for [microservices](http://martinfowler.com/articles/microservices.html) seems to have reached a plateau. [The article](http://samnewman.io/blog/2015/04/07/microservices-for-greenfield/)  suggests that a microservices architecture might not be a good fit for new (greefield) applications. There seem to be quite some reasons why not to use micorservices actually. I like the dicussion, however I think it's not specific to microservices, but applies to any decoubled service-oriented architecture ... any many failed SOA projects have probably suffered from the pitfalls described.
 
 
-### [The salary of programmers](http://stackoverflow.com/research/developer-survey-2015#work-complang)
+### [The Salary of Programmers](http://stackoverflow.com/research/developer-survey-2015#work-complang)
 It was a topic already in [my last weekend reader](http://blog.jonasbandi.net/2015/04/weekend-reader-14.html). This week we get more information about that topic from the [Stackoverflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015). There are many interesting/surprising insights:
 - Developers in the US are much better paid than in Western Europe 
 - Objective-C and Node.js development pays best. 

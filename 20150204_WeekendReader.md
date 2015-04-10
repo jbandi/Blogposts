@@ -1,77 +1,57 @@
+
 ---
-tags: weekendreader, javascript
+tags: weekendreader, javascript, jobs
 ---
 
-<img class="jb-main-img" property="og:image"  src="https://lh4.googleusercontent.com/-bD7GC_7dwQY/VNU_jfP1q-I/AAAAAAAACGY/U6l1Mbq8qZw/s800/WR201506_2.png" width="600px"/>
+<img class="jb-main-img" property="og:image"  src="https://lh4.googleusercontent.com/-nYWHixspLvw/VShKJnEJTJI/AAAAAAAACJk/PmqYwjVxmHs/s912/wr15.png" width="600px"/>
 
-### Agile Critics
-The current state of agile is critizised by some more prominent figures:
-Martin Fowler: [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII)
+### [Don't use Microservices](http://samnewman.io/blog/2015/04/07/microservices-for-greenfield/)
+The hype curve for [microservices](http://martinfowler.com/articles/microservices.html) seems to have reached a plateau. [The article](http://samnewman.io/blog/2015/04/07/microservices-for-greenfield/)  suggests that a microservices architecture might not be a good fit for new (greefield) applications. There seem to be quite some reasons why not to use micorservices actually. I like the dicussion, however I think it's not specific to microservices, but applies to any decoubled service-oriented architecture ... any many failed SOA projects have probably suffered from the pitfalls described.
 
-> Developers should not just be passive receivers of product backlog items. This is where most Agile transitions fail.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4E3xfR6IBII" frameborder="0" allowfullscreen></iframe>
-<br/>
-Dave Thomas: [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile)
-The first ten minutes are hilarious, where Dave is mocking the commercialisation of Scrum in the past and the new trend of selling "Enterprise Agile".
-<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/vxwuanffvp?canonicalUrl=http%3A%2F%2Fwww.thoughtworks.com%2Ftalks%2Fthe-death-of-agile&canonicalTitle=The%20Death%20of%20Agile%20%7C%20ThoughtWorks" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe>
+### [The salary of programmers](http://stackoverflow.com/research/developer-survey-2015#work-complang)
+It was a topic already in [my last weekend reader](http://blog.jonasbandi.net/2015/04/weekend-reader-14.html). This week we get more information about that topic from the [Stackoverflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015). There are many interesting/surprising insights:
+- Developers in the US are much better paid than in Western Europe 
+- Objective-C and Node.js development pays best. 
+- You should not be a Java developer if you are in it for the money.
+- Developers who work remotely earn significantly more than non-remote workers (probably this is a symptom not a cause: good developers are hired for remote work)
+- Mobile developers are more satisfied with their job than other developers. 
+- Product manager and quality assurance are among the least satisfying jobs
 
-### Facebook announces React Native
-With [React Native](http://www.reactnative.com/) Facebook invented yet another approach to program mobile applications in JavaScript. They promise to combine the best of native apps and the web. As far as I understood they use native components  of iOS/Android (no HTML, no browser, no WebView), but they wrap them in JavaScript/JSX and use the JavaScript runtime on iOS/Android to orchestrate the application including the rendering. A very interesting approach ...
-However they are not chasing the **"pipe dream of write once - run everywhere"**. You will write apps dedicated for iOS or Android, however the programming environment will be the same. They call it **"learn once, write anywhere"**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KVZ-P-ZI6W4" frameborder="0" allowfullscreen></iframe>
-On a side note, the [React Native presentation](https://www.youtube.com/watch?v=KVZ-P-ZI6W4) comes with a strong statement in favour of native app development and against web/hybrid mobile apps. 
 
-### Yet Another JavaScript Framework with big Ambitions
-[<img class="jb-main-img" property="og:image"  src="https://lh5.googleusercontent.com/-HpUktrXaTLg/VNUtJgHJPJI/AAAAAAAACFQ/QUBboQrekyE/s185/main-logo.png" />](http://aurelia.io/index.html)
-[Aurelia](http://aurelia.io/index.html) is a next generation JavaScript client framework, created by [Rob Eisenberg](http://eisenbergeffect.bluespire.com/), the creator of Durandal. Rob was for a short time part of the Angular team, but he changed his mind and [decided to go his own way](http://eisenbergeffect.bluespire.com/leaving-angular/) ... the result is a modern framework that builds on ES6 and WebComponents. Sounds interesting, but sceptics might say:
-[<img class="jb-main-img" property="og:image"  src="https://lh3.googleusercontent.com/-NvQIqViYq9A/VNUv9y4WoJI/AAAAAAAACFk/x15NFspE3x8/s490/xusNCWe.jpg" width="300px"/>](http://www.reddit.com/r/ProgrammerHumor/comments/2tuj7e/my_reaction_to_aureliajs/)
+### [The Rise of TypeScript](http://developer.telerik.com/featured/the-rise-of-typescript/)
 
-### The JavaScript ecosystem is broken
-In the interesting article [Generation Javascript](http://manuel.bernhardt.io/2014/12/30/generation-javascript/) the desolate state of the JavaScript ecosystem is revealed.
+The decision of the Angular team to build Angular 2 with [TypeScript](http://www.typescriptlang.org/) and to treat TypeScript as the best way to write Angular applications puts a lot of momentum behind the TypeScript language. With this step TypeScript will almost certainly leave it current Microsoft-centric niche and be more widely adopted among web developers.
 
-> Not every week-end project should be made public and available through Bower. The Javascript community needs to learn to filter itself.
 
-<blockquote class="twitter-tweet" lang="en"><p>Being a JavaScript developer in 2014 is like speed dating.&#10;&#10;45 seconds with each framework before you have to re-write.</p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/544815596932968448">December 16, 2014</a></blockquote>
+### [JavaScript for Desktop Application Development](https://github.com/atom/atom-shell)
+Man developers will cringe at that notion. But the "reuse-story" is actually compelling. For example with [Angular](https://angularjs.org/), [Atom Shell](https://github.com/atom/atom-shell) and [Ionic](http://ionicframework.com/) you have a development stack that is applicable for Web, Desktop and Mobile.
+
+More links for that topis:
+- [Atom Shell Starter](https://github.com/atom/atom-shell-starter) (base application skeleton)
+- Alternative: [NW.js](http://nwjs.io/) (formely known as node-webkit)
+- [The State of Desktop Applications in Node.js](https://nodesource.com/blog/node-desktop-applications)
+
+
+### [There is hope for Java](http://blog.paralleluniverse.co/2014/05/01/modern-java/)
+Traditional Java development has grown old and cumbersome compared with many other platforms/languages and it has a hard time keeping up with many current software developement trends.
+
+<blockquote class="twitter-tweet" lang="en"><p>Trying to do modern web development with the traditional Java approach (WAR, Maven) seems to be the ultimate productivity killer ...</p>&mdash; Jonas Bandi (@jbandi) <a href="https://twitter.com/jbandi/status/584334301086482434">April 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In the same direction goes: [Why we should stop using Grunt & Gulp](http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/) or my own post: [Gulp is the Wild West](http://blog.jonasbandi.net/2014/12/gulp-is-wild-west.html)
+But there is hope (ok the article series is already a year old): 
+- [An Opinionated Guide to Modern Java Development, Part 1](http://blog.paralleluniverse.co/2014/05/01/modern-java/)
+- [An Opinionated Guide to Modern Java Development, Part 2](http://blog.paralleluniverse.co/2014/05/08/modern-java-pt2/)
+- [An Opinionated Guide to Modern Java Development, Part 3](http://blog.paralleluniverse.co/2014/05/15/modern-java-pt3/)
 
-### Client Side Templating: Good or Bad?
-There has been some recent discussion about client side templating (like it is done by most modern JavaScript frameworks like Angular, Ember and also React):
-
-The challenge was 
-- [The problem with Angular](http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html) 
-- [Angular and templating](http://www.quirksmode.org/blog/archives/2015/01/angular_and_tem.html)
-
-It reminded me of a debate from some years ago: 
-- [Progressive Enhancement is Dead](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)  
-- [Progressive Enhancement: Still Not Dead](http://thatemil.com/blog/2013/07/02/progressive-enhancement-still-not-dead/), 
-- [Progressive enhancement is faster](http://jakearchibald.com/2013/progressive-enhancement-is-faster/)
-
-This time there was a very interesting reaction: 
-- [Experimentally verified: "Why client-side templating is wrong"](http://www.onebigfluke.com/2015/01/experimentally-verified-why-client-side.html) . 
-I like the conclusion that is backed up by data: **For typical (line of business) web applications the advantages of the client-side rendering approach outweight the disadvantages by far**. For public facing sites, where displaying initial content matters and functionality is only a second aspect, client-side rendering can be slower and optimizations with server-side rendering can be worth the effort.
+On the same topic:
+- [Java Doesn’t Suck – You’re Just Using it Wrong](http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong)
 
 
+### Geek Sarcasm: [Could it be that programmers have been human all along](http://kranglefant.tumblr.com/post/115503794320/could-it-be-that-programmers-have-been-human-all)?
+An nice tale from Christin Gorman (watch her [all-time-highlight-hilarious lightning talk](https://vimeo.com/28885655)) about a project far away from the idiocy of [enterprise application] (http://martinfowler.com/bliki/EnterpriseApplication.html) development. 
 
-### You should start looking into ES6
-ES6 will bring a lot of changes. JavaScript codebases will not look the same once ES6 catches on. Features like the [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), [template string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings) and especially [generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) will change the face of JavaScript substantially.
-
-The following videos give a good introduction to what is coming in ES6.
-
-[ES6 the future is now](https://www.youtube.com/watch?v=Hjkc9m9vYCU):
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Hjkc9m9vYCU" frameborder="0" allowfullscreen></iframe>
-
-<br/>
-[Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DqMFX91ToLw" frameborder="0" allowfullscreen></iframe>
-<br/>
-To get started quickly with using ES6 now, this is a good tutorial: [Javascript in 2015](https://www.youtube.com/watch?v=iukBMY4apvI)
-<iframe width="420" height="315" src="https://www.youtube.com/embed/iukBMY4apvI" frameborder="0" allowfullscreen></iframe>
-
-###Learning Promises
-Promises in JavaScript are not the easiest concept to grasp. However due to the asynchronous nature of JavaScript  they are a very important concept, that can and should have a major impact on the architecture and structure of JavaScript applications. I learned a lot from the following presentation: [Promise-Based Architecture](https://www.youtube.com/watch?v=uUj-J3oUmOw)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uUj-J3oUmOw" frameborder="0" allowfullscreen></iframe>
+On the same topic:
+- [It Takes 6 Days to Change 1 Line of Code](http://web.archive.org/web/20130525012304/http://edweissman.com/it-takes-6-days-to-change-1-line-of-code)
+- [The story about Ashton](http://programmers.stackexchange.com/a/25459) from Joel Spolsky

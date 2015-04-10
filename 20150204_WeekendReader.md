@@ -22,7 +22,7 @@ It was a topic already in [my last weekend reader](http://blog.jonasbandi.net/20
 
 ### [The Rise of TypeScript](http://developer.telerik.com/featured/the-rise-of-typescript/)
 
-The decision of the Angular team to build Angular 2 with [TypeScript](http://www.typescriptlang.org/) and to treat TypeScript as the best way to write Angular applications puts a lot of momentum behind the TypeScript language. With this step TypeScript will almost certainly leave it current Microsoft-centric niche and be more widely adopted among web developers.
+The decision of the Angular team to build Angular 2 with [TypeScript](http://www.typescriptlang.org/) and to treat TypeScript as the best way to write Angular applications puts a lot of momentum behind the TypeScript language. With this step TypeScript will almost certainly leave its current Microsoft-centric niche and be more widely adopted among web developers.
 
 
 ### [JavaScript for Desktop Application Development](https://github.com/atom/atom-shell)

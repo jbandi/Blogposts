@@ -50,7 +50,7 @@ On the same topic:
 
 
 ### Geek Sarcasm: [Could it be that programmers have been human all along](http://kranglefant.tumblr.com/post/115503794320/could-it-be-that-programmers-have-been-human-all)?
-An nice tale from Christin Gorman (watch her [all-time-highlight-hilarious lightning talk](https://vimeo.com/28885655)) about a project far away from the idiocy of [enterprise application] (http://martinfowler.com/bliki/EnterpriseApplication.html) development. 
+An nice tale from Christin Gorman (watch her [all-time-highlight-hilarious lightning talk](https://vimeo.com/28885655)) about a project far away from the idiocy of [enterprise application](http://martinfowler.com/bliki/EnterpriseApplication.html) development. 
 
 On the same topic:
 - [It Takes 6 Days to Change 1 Line of Code](http://web.archive.org/web/20130525012304/http://edweissman.com/it-takes-6-days-to-change-1-line-of-code)

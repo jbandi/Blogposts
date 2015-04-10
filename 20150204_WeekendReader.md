@@ -55,3 +55,8 @@ An nice tale from Christin Gorman (watch her [hilarious-all-time-highlight light
 On the same topic:
 - [It Takes 6 Days to Change 1 Line of Code](http://web.archive.org/web/20130525012304/http://edweissman.com/it-takes-6-days-to-change-1-line-of-code)
 - [The story about Ashton](http://programmers.stackexchange.com/a/25459) from Joel Spolsky
+
+
+### The wait is over
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9Bo89m2f6g" frameborder="0" allowfullscreen></iframe>
+Since I stopped reading the series at book 4 I am especially curious about the upcoming season ... will they even go further than the books?

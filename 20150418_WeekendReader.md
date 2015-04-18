@@ -3,7 +3,7 @@
 tags: weekendreader
 ---
 
-<img class="jb-main-img" property="og:image"  src="https://lh6.googleusercontent.com/-KVsIabrZ5ZQ/VTLDHWpAGkI/AAAAAAAACKA/d1-SPBHujWs/s1024-no/WR16.png" width="600px"/>
+<img class="jb-main-img" property="og:image"  src="https://lh6.googleusercontent.com/-KVsIabrZ5ZQ/VTLDHWpAGkI/AAAAAAAACKA/d1-SPBHujWs/s1024-no/WR16.png" width="500px"/>
 
 
 ### [You Might Have Too Many Developers](http://curtiscooley.com/too_many_dev)

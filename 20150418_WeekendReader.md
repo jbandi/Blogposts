@@ -54,13 +54,7 @@ Geeky. But never underestimate what you can do with JavaScript ...
 **SwissJS**
 [SwissJS 2015](http://www.swissjs.com/) (formely SwissJeese) is announced for July 18th 2015 in Bern. Last year the conference was my highlight of tech events. Make sure to get a ticket early, the first batch of "Blind Bird" tickets is already sold out ...
 
-**
-
-
-----------
-
-
-SoCraTes Day **
+**SoCraTes Day **
 The first [SoCraTes Day Switzerland](http://socrates-day.ch/) takes place on Friday, June 19th in Zurich. This software craftsmanship conference is organized as an *unconference*, where the participants define the agenda on the day of the conference.
 
 

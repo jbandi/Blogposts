@@ -7,7 +7,7 @@ tags: weekendreader
 
 
 ### [You Might Have Too Many Developers](http://curtiscooley.com/too_many_dev)
-An argument in favour of small teams and small incremental projects.
+An argument in favor of small teams and small incremental projects.
 > Why are we still talking about scaling agile with things like [SAFe](http://www.scaledagileframework.com/) when the root problem is you might have too many developers?
 
 

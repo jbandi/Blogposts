@@ -43,7 +43,7 @@ In the ["The Two Pillars of JavaScript"](https://medium.com/javascript-scene/the
 > You never need classes in JavaScript, and I have never seen a situation where class is a better approach than the alternatives.
 
 ### [Angular Tidbits](http://www.toptal.com/videos)
-Toptal has published some [nice short videos](http://www.toptal.com/videos), each describing a advanced concept of Angular. These are nice fill-ins for a short break.
+Toptal has published some [nice short videos](http://www.toptal.com/videos), each describing a advanced concept of Angular. Perfect fill-ins for a short break.
 
 ###[A processor simulator written in JavaScript](A%20processor%20simulator%20written%20in%20JavaScript)
 
@@ -54,7 +54,13 @@ Geeky. But never underestimate what you can do with JavaScript ...
 **SwissJS**
 [SwissJS 2015](http://www.swissjs.com/) (formely SwissJeese) is announced for July 18th 2015 in Bern. Last year the conference was my highlight of tech events. Make sure to get a ticket early, the first batch of "Blind Bird" tickets is already sold out ...
 
-**SoCraTes Day **
+**
+
+
+----------
+
+
+SoCraTes Day **
 The first [SoCraTes Day Switzerland](http://socrates-day.ch/) takes place on Friday, June 19th in Zurich. This software craftsmanship conference is organized as an *unconference*, where the participants define the agenda on the day of the conference.
 
 

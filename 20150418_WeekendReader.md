@@ -54,10 +54,16 @@ Geeky. But never underestimate what you can do with JavaScript ...
 **SwissJS**
 [SwissJS 2015](http://www.swissjs.com/) (formely SwissJeese) is announced for July 18th 2015 in Bern. Last year the conference was my highlight of tech events. Make sure to get a ticket early, the first batch of "Blind Bird" tickets is already sold out ...
 
-**SoCraTes Day **
+**
+
+
+----------
+
+
+SoCraTes Day **
 The first [SoCraTes Day Switzerland](http://socrates-day.ch/) takes place on Friday, June 19th in Zurich. This software craftsmanship conference is organized as an *unconference*, where the participants define the agenda on the day of the conference.
 
 
-### [Humorous Advertisement](https://www.youtube.com/watch?v=1yD7NC2Urdw)
+### [Funny Advertisement](https://www.youtube.com/watch?v=1yD7NC2Urdw)
 Everybody complains about the ever more aggressive advertisement on YouTube, however if YouTube presents me advertisement like this, I gladly watch it to the end ... and I then search for the clip on YouTube to watch it again:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1yD7NC2Urdw" frameborder="0" allowfullscreen></iframe>

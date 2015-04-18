@@ -21,7 +21,7 @@ An argument in favour of small teams and small incremental projects.
 >Industrial-age management is a really bad system for managing software development.
   
 <br/>
-Sidenote: questioning the 10x developer productivity myth: [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns), [Fact and folklore in software engineering](http://morendil.github.io/folklore.html), [StackExchange Question](http://programmers.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10x-times-more-productive-than-a-mediocre-one), [Qura Question](http://www.quora.com/Is-the-concept-of-a-10x-engineer-valid)
+Sidenote: questioning the 10x developer productivity myth: [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns), [Fact and folklore in software engineering](http://morendil.github.io/folklore.html), [StackExchange Question](http://programmers.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10x-times-more-productive-than-a-mediocre-one), [Quora Question](http://www.quora.com/Is-the-concept-of-a-10x-engineer-valid)
 
 ### [Don't use Microservices](http://blog.xebialabs.com/2015/04/13/before-you-go-over-the-container-cliff-with-docker-mesos-etc-points-to-consider/)
 As in my [previous Weekend Reader](http://blog.jonasbandi.net/2015/04/weekend-reader-week-15.html), here is [another article](http://blog.xebialabs.com/2015/04/13/before-you-go-over-the-container-cliff-with-docker-mesos-etc-points-to-consider/) that has a good discussions about challenges and problems when trying to adopt microservices. 

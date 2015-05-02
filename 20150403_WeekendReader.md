@@ -30,9 +30,10 @@ As always Dan North is a great presenter. In this presentation [Beyond Features:
 
 > Methodology eats manifesto for breakfast.
 
-Agile methods today optimize for predictability. That is not what the Agile Manifesto was originally about. Doing mini-waterfalls and calling it Scrum is actually worse than the traditional waterfall .
+Agile methods today optimize for predictability. That is not what the Agile Manifesto was originally about. Doing mini-waterfalls and calling it Scrum is actually worse than the traditional waterfall.
 
 In the presentation Dan also questions the analogy between software development and civil engineering. He draws a new analogy beween software development and surgery... and he has some interesting points. See [Olivers post](http://www.nautsch.net/2015/04/27/software-chirurgie/) (in German).
+
 For sure I have been in [dysfunctional software "projects"](http://blog.jonasbandi.net/2011/09/programming-humor-private-coder.html) where I felt like part of an emergency room team: Every morning we were not sure what the day will bring, but we were prepared for anything ...
 
 
@@ -40,7 +41,7 @@ For sure I have been in [dysfunctional software "projects"](http://blog.jonasban
 ### [Criticising SAFe (again)](http://ronjeffries.com/xprog/articles/issues-with-safe/)
 It might become a boring recurring theme on my blog: [I don't believe in scaling Agile to the enterprise](http://blog.jonasbandi.net/2014/02/why-i-don-believe-in-scaling-agile-to.html) ... at least not as preached by current methodologies.
 
-This time it is Ron Jeffies (one of the 3 founders of Extreme Programming) who [critizises SAFe](http://ronjeffries.com/xprog/articles/issues-with-safe/):
+This time it is Ron Jeffries (one of the 3 founders of Extreme Programming) who [critizises SAFe](http://ronjeffries.com/xprog/articles/issues-with-safe/):
 
 > SAFe's strength is that it appeals to large organizations who are not Agile.
 

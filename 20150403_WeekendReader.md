@@ -62,5 +62,7 @@ An interesting article questioning the position of firms and employees in a mode
 
 
 ### [How software was written before I was born ...](https://twitter.com/GeorgiCodes/status/588710109230010368)
+
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">this software engineer is my hero! <a href="http://t.co/CHpaqtGtGf">pic.twitter.com/CHpaqtGtGf</a></p>&mdash; Georgi (@GeorgiCodes) <a href="https://twitter.com/GeorgiCodes/status/588710109230010368">April 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

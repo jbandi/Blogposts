@@ -48,5 +48,5 @@ I am in awe at all the obstacles he is willing to take on by staying true to his
 
 ### [Funny: Introducing Atom 1.0](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
 
-Atom is the text Editor from GitHub based on [web-technologies](http://electron.atom.io/).
+Atom is the text editor from GitHub based on [web-technologies](http://electron.atom.io/).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y7aEiVwBAdk" frameborder="0" allowfullscreen></iframe>

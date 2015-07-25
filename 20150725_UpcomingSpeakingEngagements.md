@@ -12,7 +12,6 @@ It's the third time I hold the "JavaScript for real Developers" workshop at the 
 <img class="jb-main-img" src="https://lh3.googleusercontent.com/-tO5TCWxwoFo/VbNXFSRJ7wI/AAAAAAAACUc/mkwrGRWRWbg/s553-Ic42/SBB-Logo-e1406643561652.png" width="300px">
 
 I am proud that I was invited for the fifth time to speak at the annual SBB Developer Day on September 9th. I will give an introduction to TypeScript.
-I will give a talk titled ["JavaScript - Past, Present, Future"](https://ssl.hostpark.net/bkaiser.ch/sise/2015/program.html).
 
 
 [<img class="jb-main-img" src="https://lh3.googleusercontent.com/-PZEHeeO-T-o/VbNYQEqeI7I/AAAAAAAACU0/0xrIcK9MAjU/s300-Ic42/digi_logo.png">](https://www.digicomp.ch/de/einfuehrung-in-die-frontend-entwicklung-mit-javascript-und-angularjs)

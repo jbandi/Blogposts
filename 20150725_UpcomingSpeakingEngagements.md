@@ -2,7 +2,7 @@
 tags: javascript, presentation
 ---
 
-[<img class="jb-main-img" src="https://lh3.googleusercontent.com/-W0WFYLMqWpI/VbNUJ6bUN4I/AAAAAAAACUE/FCHCIprZzGI/s128-Ic42/ch-open-logo.gif">](https://www.ch-open.ch/wstage/workshop-tage/programm/)
+[<img class="jb-main-img" src="http://jonasbandi.net/blog/ch-open-logo.gif">](https://www.ch-open.ch/wstage/workshop-tage/programm/)
 
 I will hold my workshop "[JavaScript for real Developers: A survival Bootcamp](https://www.ch-open.ch/wstage/workshop-tage/programm/ws-1-javascript-for-real-developers-ein-survival-bootcamp/)".
 I have been holding workshops at the "[ch/open Workshoptage](https://www.ch-open.ch/wstage/workshop-tage/programm/)" for the last 9 years, and I think it is one of the best tech event in Switzerland.

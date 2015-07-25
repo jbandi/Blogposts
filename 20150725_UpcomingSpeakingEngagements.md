@@ -16,4 +16,5 @@ I will give a talk titled ["JavaScript - Past, Present, Future"](https://ssl.hos
 
 
 [<img class="jb-main-img" src="https://lh3.googleusercontent.com/-PZEHeeO-T-o/VbNYQEqeI7I/AAAAAAAACU0/0xrIcK9MAjU/s300-Ic42/digi_logo.png">](https://www.digicomp.ch/de/einfuehrung-in-die-frontend-entwicklung-mit-javascript-und-angularjs)
+
 On August 3rd I will hold my course "[Einführung in die Frontend-Entwicklung mit JavaScript und AngularJS](https://www.digicomp.ch/de/einfuehrung-in-die-frontend-entwicklung-mit-javascript-und-angularjs)" at [DigiComp](https://www.digicomp.ch/) for the first time. The course is not yet fully booked, there is still time to register ...

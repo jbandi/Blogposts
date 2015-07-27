@@ -39,9 +39,7 @@ React.js was critizising MVC from the beginning. I never understood the argument
 ### [The container revolution](http://www.theplatform.net/2015/07/21/containers-for-the-masses-now-that-kubernetes-is-set-free/)
 A good wirteup about how container technologies evolved and the consequences.
 
-> That means your developers can move faster, you can ship faster, you
-> can iterate faster, your business grows faster – speed improves
-> everything.
+> That means your developers can move faster, you can ship faster, you can iterate faster, your business grows faster – speed improves everything.
 
 
 ### [This Developers Life is back](http://thisdeveloperslife.com/)

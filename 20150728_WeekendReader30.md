@@ -32,7 +32,7 @@ Feature toggles are a (better) alternative to excessive feature branching, but g
 
 
 
-### [Why you might not need MVC] (http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
+### [Why you might not need MVC](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
 React.js was critizising MVC from the beginning. I never understood the argumentation against MVC, 2-way-binding and the need for the Flux architecture. This article helped me to understand some of the concepts behind that argumentation.
 
 
@@ -44,7 +44,8 @@ A good wirteup about how container technologies evolved and the consequences.
 > everything.
 
 
-
+### [This Developers Life is back](http://thisdeveloperslife.com/)
+After almost two years of silence they released a new episode ... it does not top [my favorite episode](http://thisdeveloperslife.com/post/2-0-2-pressure), but it's well done.
 
 ### [The ??!??! operator in C?](http://stackoverflow.com/questions/7825055/what-does-the-c-operator-do)
 

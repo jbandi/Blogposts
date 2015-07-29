@@ -5,7 +5,7 @@ tags: weekendreader
 
 ### [SwissJS](http://www.swissjs.com/) was Great!
 Here are some good summaries:
-- [SwissJS 2015 - The JavaScript Conference To Meet](https://www.nothing.ch/en/research/swissjs-2015-javascript-conference-meet-and-socialise) and Socialise by nothing.ch
+- [SwissJS 2015 - The JavaScript Conference To Meet and Socialise](https://www.nothing.ch/en/research/swissjs-2015-javascript-conference-meet-and-socialise) by nothing.ch
 - [Impressions of swissJS 2015](http://chaosmail.github.io/conference/2015/07/21/swissjs-2015/) by Chaosmail Blog
 
 
@@ -28,7 +28,7 @@ Some interesting thoughts about tracking value and a lot of bashing of issue tra
 
 
 ### [Feature Toggles are one of the worst kinds of Technical Debt](http://swreflections.blogspot.ca/2014/08/feature-toggles-are-one-of-worst-kinds.html)
-Feature toggles are a (better) alternative to excessive feature branching, but guess what they have their own problesm ... so we keep looking for the silver bullet.
+Feature toggles are a (better) alternative to excessive feature branching, but guess what, they have their own problems ... so we keep looking for the silver bullet.
 
 
 
@@ -37,7 +37,7 @@ React.js was critizising MVC from the beginning. I never understood the argument
 
 
 ### [The container revolution](http://www.theplatform.net/2015/07/21/containers-for-the-masses-now-that-kubernetes-is-set-free/)
-A good wirteup about how container technologies evolved and the consequences.
+A good writeup about how container technologies evolved and the consequences.
 
 > That means your developers can move faster, you can ship faster, you can iterate faster, your business grows faster – speed improves everything.
 
@@ -45,6 +45,6 @@ A good wirteup about how container technologies evolved and the consequences.
 ### [This Developers Life is back](http://thisdeveloperslife.com/)
 After almost two years of silence they released a new episode ... it does not top [my favorite episode](http://thisdeveloperslife.com/post/2-0-2-pressure), but it's well done.
 
-### [The ??!??! operator in C?](http://stackoverflow.com/questions/7825055/what-does-the-c-operator-do)
+### [The ??!??! operator in C](http://stackoverflow.com/questions/7825055/what-does-the-c-operator-do)
 
 No joke: `??!??!` is a valid operator in the C programming language ... 

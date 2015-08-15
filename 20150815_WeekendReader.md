@@ -19,15 +19,17 @@ It seems that the NoEstimates movement now gained momentum, when the famous auth
 
 
 ### No Estimates: [The Reply of Ron Joffries ](http://ronjeffries.com/articles/015-jul/mcconnell/) 
-Ron Joffries, one of the main proponents of [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates) has an elaborate reply to Steve McDonnell where he shows flaws in the argumants of McDonnel and defends the ideas behind NoEstimates.
+Ron Joffries, one of the main proponents of [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates), has an elaborate reply to Steve McDonnell where he shows flaws in the arguments of McDonnel and defends the ideas behind NoEstimates.
 
 ### NoEstimates: More Resources
 
 - [Estimation is Evil: Overcoming the Estimation Obsession](https://pragprog.com/magazines/2013-02/estimation-is-evil) by Ron Jeffries
 - [Why are software development estimates regularly off by a factor of 2-3 times?](http://www.michaelrwolfe.com/2013/10/19/50/) - a very nice analogy with planning a hike ...
+- [Software engineering: An Idea Whose Time Has Come and Gone?](http://www2.computer.org/cms/Computer.org/ComputingNow/homepage/2009/0709/rW_SO_Viewpoints.pdf) by Tom DeMarco 
 - [Two Reasons Why Estimates Aren’t Worth It](http://www.petrikainulainen.net/software-development/processes/two-reasons-why-estimates-arent-worth-it/)
 - [My Customers Need Estimates, What Do I do?](http://zuill.us/WoodyZuill/2013/05/13/my-customers-need-estimates-what-do-i-do/)
 - [My First, Last & Only Blog Post About #NoEstimates](http://codemanship.co.uk/parlezuml/blog/?postid=1316)
+
 
 > The only way out of the estimating nightmare is to call "bullshit" on  it, and publicly accept - indeed, embrace - the uncertainty that's inherent in what we're doing.
 
@@ -44,9 +46,9 @@ A very detailed tutorial on how to build a desktop application with JavaScript a
 After the browser and the server, JavaScript sets out to conquer the desktop ...
 
 ### JavaScript: [Using Server Side Javascript with Wildfly](http://wildfly.org/news/2015/08/10/Javascript-Support-In-Wildfly/)
-So JBoss, the traditional Java server, jumps the bandwaggon and introduces support for server-side JavaScript. Interesting ... probably the first sensible usage of [Nashorn](http://www.oracle.com/technetwork/articles/java/jf14-nashorn-2126515.html) I have seen so far (after [Project Avatar](https://avatar.java.net/) was [killed by Oracle](https://blogs.oracle.com/theaquarium/entry/project_avatar_update))
+JBoss, the traditional Java server, jumps the bandwaggon and introduces support for server-side JavaScript. Interesting ... probably the first sensible usage of [Nashorn](http://www.oracle.com/technetwork/articles/java/jf14-nashorn-2126515.html) I have seen so far (after [Project Avatar](https://avatar.java.net/) was [killed by Oracle](https://blogs.oracle.com/theaquarium/entry/project_avatar_update))
 
-But what I find even more intersting is the new hot deployment mechanism that allows you to map the web content root to your local workspace. This migth be a huge productivity boost for Java web development ... so I might have to revise my tweet:
+But what I find even more interesting is the new hot deployment mechanism that allows you to map the web content root to your local workspace. This migth be a huge productivity boost for Java web development ... so I might have to revise my tweet:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Trying to do modern web development with the traditional Java approach (WAR, Maven) seems to be the ultimate productivity killer ...</p>&mdash; Jonas Bandi (@jbandi) <a href="https://twitter.com/jbandi/status/584334301086482434">April 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

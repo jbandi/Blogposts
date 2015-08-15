@@ -14,7 +14,7 @@ As a conclusion software estimation is mostly a farce according to NoEstimates:
 
 [<img class="jb-main-img" src="http://lh4.ggpht.com/-RbdH5_lTvro/U8GbBK7i_OI/AAAAAAAAB4I/Ae2IjKP5Ptk/BrtAGhlCIAEZa-4.jpg?imgmax=800" >](http://lh4.ggpht.com/-RbdH5_lTvro/U8GbBK7i_OI/AAAAAAAAB4I/Ae2IjKP5Ptk/BrtAGhlCIAEZa-4.jpg?imgmax=800)
 
-It seems that the NoEstimates movement now gained momentum, when the famous author [Steve McConnell](http://www.stevemcconnell.com/) deems to reply with a video:
+It seems that the NoEstimates movement now gained momentum, as the famous author [Steve McConnell](http://www.stevemcconnell.com/) deems to reply with a video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55tfYRajpFI" frameborder="0" allowfullscreen></iframe>
 
 

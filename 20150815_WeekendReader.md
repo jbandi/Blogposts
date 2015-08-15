@@ -12,7 +12,7 @@ The [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates) movement i
 The proponents of the NoEstimate movement argue that Software Development essentially is [nothing](http://blog.tablexi.com/2013/01/why-building-software-is-not-like-building-a-house/developers/) like [building housese](http://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/) but rather like building a science theory (do you think Einstein estimated how long it would take him to figure out relativity theory?). 
 As a conclusion software estimation is mostly a farce according to NoEstimates:
 
-<img class="jb-main-img" src="http://lh4.ggpht.com/-RbdH5_lTvro/U8GbBK7i_OI/AAAAAAAAB4I/Ae2IjKP5Ptk/BrtAGhlCIAEZa-4.jpg?imgmax=800" >
+[<img class="jb-main-img" src="http://lh4.ggpht.com/-RbdH5_lTvro/U8GbBK7i_OI/AAAAAAAAB4I/Ae2IjKP5Ptk/BrtAGhlCIAEZa-4.jpg?imgmax=800" >](http://lh4.ggpht.com/-RbdH5_lTvro/U8GbBK7i_OI/AAAAAAAAB4I/Ae2IjKP5Ptk/BrtAGhlCIAEZa-4.jpg?imgmax=800)
 
 It seems that the NoEstimates movement now gained momentum, when the famous author [Steve McConnell](http://www.stevemcconnell.com/) deems to reply with a video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55tfYRajpFI" frameborder="0" allowfullscreen></iframe>

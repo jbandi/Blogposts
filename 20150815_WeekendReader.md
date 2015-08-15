@@ -4,8 +4,8 @@ tags: weekendreader
 <img class="jb-main-img" src="https://lh3.googleusercontent.com/-BXzHNjRJJVo/Vc9FF4zOPdI/AAAAAAAACWc/xfRgv44yODM/s912-Ic42/WR33.png">
 
 ### [Tudor Girba on .NET Rocks](https://www.dotnetrocks.com/default.aspx?showNum=1172)
-.NET Rocks is still one of my favorite podcast. In [this episode](https://www.dotnetrocks.com/default.aspx?showNum=1172) my colleague Tudor talks about his ideas of modern software development, especially about reading code an source code analysis. 
-A very interesting conversation, Tudor is very eloquent as always. But Richard also cuts to the chase at the end: "This all sounds very academic" ... listen to the conversation and judge for yourself.
+.NET Rocks is still one of my favorite podcast. In [this episode](https://www.dotnetrocks.com/default.aspx?showNum=1172) my colleague [Tudor](http://www.tudorgirba.com/) talks about his ideas of modern software development, especially about reading code an source code analysis. 
+A very interesting conversation, Tudor is eloquent as always. But Richard also cuts to the chase at the end: "This all sounds very academic" ... listen to the conversation and judge for yourself.
 
 ### No Estimates: [A critique by Steve McConnell](https://www.youtube.com/watch?v=55tfYRajpFI&feature=youtu.be) 
 The [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates) movement is a new trend in Agile that critizises many Agile methodologies that set heavy focus on planning and therefore spend a lot of effort for estimating. 

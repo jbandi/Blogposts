@@ -4,7 +4,7 @@ tags: weekendreader
 <img class="jb-main-img" src="https://lh3.googleusercontent.com/-BXzHNjRJJVo/Vc9FF4zOPdI/AAAAAAAACWc/xfRgv44yODM/s912-Ic42/WR33.png">
 
 ### [Tudor Girba on .NET Rocks](https://www.dotnetrocks.com/default.aspx?showNum=1172)
-.NET Rocks is still one of my favorite podcast. In [this episode](https://www.dotnetrocks.com/default.aspx?showNum=1172) my collegue Tudor talks about his ideas of modern software development, especially about reading code an source code analysis. 
+.NET Rocks is still one of my favorite podcast. In [this episode](https://www.dotnetrocks.com/default.aspx?showNum=1172) my colleague Tudor talks about his ideas of modern software development, especially about reading code an source code analysis. 
 A very interesting conversation, Tudor is very eloquent as always. But Richard also cuts to the chase at the end: "This all sounds very academic" ... listen to the conversation and judge for yourself.
 
 ### No Estimates: [A critique by Steve McConnell](https://www.youtube.com/watch?v=55tfYRajpFI&feature=youtu.be) 

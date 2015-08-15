@@ -7,15 +7,18 @@ tags: weekendreader
 .NET Rocks is still one of my favorite podcast. In [this episode](https://www.dotnetrocks.com/default.aspx?showNum=1172) my collegue Tudor talks about his ideas of modern software development, especially about reading code an source code analysis. 
 A very interesting conversation, Tudor is very eloquent as always. But Richard also cuts to the chase at the end: "This all sounds very academic" ... listen to the conversation and judge for yourself.
 
-### [No Estimates: A critique by Steve McConnell](https://www.youtube.com/watch?v=55tfYRajpFI&feature=youtu.be) 
-The [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates) movement is a new trend in Agile that critizises many Agile methodologies that set heavy focus on planning and therefore spend a lot of effort for estimating. The proponents of the NoEstimate movement argue that Software Development essentially is [nothing](http://blog.tablexi.com/2013/01/why-building-software-is-not-like-building-a-house/developers/) like [building housese](http://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/) but rather like building a science theory (do you think Einstein estimated how long it would take him to figure out relativity theory?). As a conclusion software estimation is mostly a farce according to NoEstimates:
+### No Estimates: [A critique by Steve McConnell](https://www.youtube.com/watch?v=55tfYRajpFI&feature=youtu.be) 
+The [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates) movement is a new trend in Agile that critizises many Agile methodologies that set heavy focus on planning and therefore spend a lot of effort for estimating. 
+The proponents of the NoEstimate movement argue that Software Development essentially is [nothing](http://blog.tablexi.com/2013/01/why-building-software-is-not-like-building-a-house/developers/) like [building housese](http://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/) but rather like building a science theory (do you think Einstein estimated how long it would take him to figure out relativity theory?). 
+As a conclusion software estimation is mostly a farce according to NoEstimates:
+
 <img class="jb-main-img" src="http://lh4.ggpht.com/-RbdH5_lTvro/U8GbBK7i_OI/AAAAAAAAB4I/Ae2IjKP5Ptk/BrtAGhlCIAEZa-4.jpg?imgmax=800" >
 
 It seems that the NoEstimates movement now gained momentum, when the famous author [Steve McConnell](http://www.stevemcconnell.com/) deems to reply with a video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55tfYRajpFI" frameborder="0" allowfullscreen></iframe>
 
 
-### [No Estimates: The Reply of Ron Joffries ](http://ronjeffries.com/articles/015-jul/mcconnell/) 
+### No Estimates: [The Reply of Ron Joffries ](http://ronjeffries.com/articles/015-jul/mcconnell/) 
 Ron Joffries, one of the main proponents of [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates) has an elaborate reply to Steve McDonnell where he shows flaws in the argumants of McDonnel and defends the ideas behind NoEstimates.
 
 ### NoEstimates: More Resources

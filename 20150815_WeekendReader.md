@@ -18,8 +18,8 @@ It seems that the NoEstimates movement now gained momentum, when the famous auth
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55tfYRajpFI" frameborder="0" allowfullscreen></iframe>
 
 
-### No Estimates: [The Reply of Ron Joffries ](http://ronjeffries.com/articles/015-jul/mcconnell/) 
-Ron Joffries, one of the main proponents of [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates), has an elaborate reply to Steve McDonnell where he shows flaws in the arguments of McDonnel and defends the ideas behind NoEstimates.
+### No Estimates: [The Reply of Ron Jeffries ](http://ronjeffries.com/articles/015-jul/mcconnell/) 
+Ron Jeffries, one of the main proponents of [NoEstimates](https://twitter.com/search?src=typd&q=#noestimates), has an elaborate reply to Steve McDonnell where he shows flaws in the arguments of McDonnell and defends the ideas behind NoEstimates.
 
 ### NoEstimates: More Resources
 
@@ -38,7 +38,7 @@ Netflix introduced JavaScript on the server to reuse the same logic on the serve
 
 > Context switching between languages was not ideal.
 
-After [PayPal announced switching all their Java code to JavaScript](http://www.zdnet.com/article/how-replacing-java-with-javascript-is-paying-off-for-paypal/) this is another big company investing heavily on JavScript on the server.
+After [PayPal announced switching all their Java code to JavaScript](http://www.zdnet.com/article/how-replacing-java-with-javascript-is-paying-off-for-paypal/), this is another big company investing heavily on JavaScript on the server.
 
 
 ### JavaScript: [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) 
@@ -48,7 +48,7 @@ After the browser and the server, JavaScript sets out to conquer the desktop ...
 ### JavaScript: [Using Server Side Javascript with Wildfly](http://wildfly.org/news/2015/08/10/Javascript-Support-In-Wildfly/)
 JBoss, the traditional Java server, jumps the bandwaggon and introduces support for server-side JavaScript. Interesting ... probably the first sensible usage of [Nashorn](http://www.oracle.com/technetwork/articles/java/jf14-nashorn-2126515.html) I have seen so far (after [Project Avatar](https://avatar.java.net/) was [killed by Oracle](https://blogs.oracle.com/theaquarium/entry/project_avatar_update))
 
-But what I find even more interesting is the new hot deployment mechanism that allows you to map the web content root to your local workspace. This migth be a huge productivity boost for Java web development ... so I might have to revise my tweet:
+But what I find even more interesting, is the new hot deployment mechanism that allows you to map the web content root to your local workspace. This migth be a huge productivity boost for Java web development ... so I might have to revise my tweet:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Trying to do modern web development with the traditional Java approach (WAR, Maven) seems to be the ultimate productivity killer ...</p>&mdash; Jonas Bandi (@jbandi) <a href="https://twitter.com/jbandi/status/584334301086482434">April 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

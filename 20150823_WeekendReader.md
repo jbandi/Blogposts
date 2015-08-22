@@ -55,25 +55,6 @@ Today consulting companies make money by helping [other companies choosing an Ag
 So, I guess I should feel privileged to be born in Switzerland ...
 
 
-### Work: [Long Hours Backfire for People and for Companies](https://hbr.org/2015/08/the-research-is-clear-long-hours-backfire-for-people-and-for-companies)  
-
-> In sum, the story of overwork is literally a story of diminishing returns: keep overworking, and you’ll progressively work more stupidly on tasks that are increasingly meaningless.
-
-### Web Dev: [Stop pushing the web forward](http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html)
-
-Peter Paul Koch of [QuirksMode](http://www.quirksmode.org/) argues that we are maneuvering the web into a dead end. Instead of trying to compete with native apps by cramming more and more features into browsers, we should focus on the web’s strengths: simplicity, URLs and reach.
-
-> We get ever more features that become ever more complex and need ever
-> more polyfills and other tools to function — tools that are part of
-> the problem, and not of the solution.
-
-
-### Web Dev: [A hex editor in the browser](https://hexed.it/)
-
-https://hexed.it/ - Just another instantiation of [Attwood's Law](https://en.wikipedia.org/wiki/Jeff_Atwood):
-
-> Any application that can be written in JavaScript will eventually be written in JavaScript
-
 
 ### Funny: [Snapchat murders Facebook](https://www.youtube.com/watch?v=kKSr6h5-fCU)
 ... an intro to Snapchat, ideal for old people like me who are still blogging and can't stay up to date on the latest fashon in social networking:

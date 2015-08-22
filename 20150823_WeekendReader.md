@@ -10,16 +10,11 @@ tags: weekendreader
 There is a lot of debate [whether the 10x developer is reality or not](http://www.quora.com/Is-the-concept-of-a-10x-engineer-valid). But this article proves that the **10x team** is definitely reality.
 But the article also points out that it does not (only) depend on the people in the team, but also on the project setup: Is the team in a position to make a difference, or can it be ground in bureaucracy. 
 
-> The biggest foe is generally risk aversion. People in government are
-> trained to not do things differently because there’s often really bad
-> consequences when you try something differently and it fails. We run
-> up against this all the time
+> The biggest foe is generally risk aversion. People in government are trained to not do things differently because there’s often really bad consequences when you try something differently and it fails. We run up against this all the time
 
 I also find the philosophy how the USDS attracts people and forms teams very interesting:
 
-> We don’t make career hires. We’re not building a career
-> organization. [...] We are relentless about trying to hang onto the
-> ruthless mission focus here. We are built for short term appointments.
+> We don’t make career hires. We’re not building a career organization. [...] We are relentless about trying to hang onto the ruthless mission focus here. We are built for short term appointments.
 
 
 

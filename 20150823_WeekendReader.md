@@ -37,7 +37,7 @@ It is sad where Agile has ended up:
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Once upon a time there was a new way of being. Then, much too fast, it became the old way. <a href="https://twitter.com/hashtag/sigh?src=hash">#sigh</a> <a href="http://t.co/CVgD4x8iXD">pic.twitter.com/CVgD4x8iXD</a></p>&mdash; Tobias Mayer (@tobiasmayer) <a href="https://twitter.com/tobiasmayer/status/634923331465146368">August 22, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Today consulting companies make money by helping [other companies choosing an Agile framework](http://swissq-1.hs-sites.com/agile-models) that fits their specific Agile needs:
+Today consulting companies position themselves to help [other companies to choose an Agile framework](http://swissq-1.hs-sites.com/agile-models) that fits their specific Agile needs:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="de" dir="ltr">Welches <a href="https://twitter.com/hashtag/Agile?src=hash">#Agile</a> Modell passt zu meinem Unternehmen? &#10;<a href="http://t.co/tWOKJJyz7u">http://t.co/tWOKJJyz7u</a>&#10;<a href="https://twitter.com/hashtag/VergleichAgilerModelle?src=hash">#VergleichAgilerModelle</a>&#10;<a href="https://twitter.com/hashtag/SwissQ?src=hash">#SwissQ</a> <a href="http://t.co/XAfBQPv0lx">pic.twitter.com/XAfBQPv0lx</a></p>&mdash; Sacha Czudek (@CzudekSacha) <a href="https://twitter.com/CzudekSacha/status/628943427137351680">August 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

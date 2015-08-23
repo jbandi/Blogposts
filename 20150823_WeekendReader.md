@@ -8,7 +8,7 @@ tags: weekendreader
 > The original enrollment system cost \$200 million and would have required \$70 million a year to maintain. The new version of the site cost \$4 million to produce, with annual maintenance costs also \$4 million.
 
 There is a lot of debate [whether the 10x developer is reality or not](http://www.quora.com/Is-the-concept-of-a-10x-engineer-valid). But this article proves that the **10x team** is definitely reality.
-But the article also points out that it does not (only) depend on the people in the team, but also on the project setup: Is the team in a position to make a difference, or can it be ground in bureaucracy. 
+But the article also points out that it does not (only) depend on the people in the team, but also on the project setup: Is the team in a position to make a difference, or is it helplessly entangled in bureaucracy. 
 
 > The biggest foe is generally risk aversion. People in government are trained to not do things differently because there’s often really bad consequences when you try something differently and it fails. We run up against this all the time
 

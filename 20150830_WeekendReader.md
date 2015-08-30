@@ -24,7 +24,7 @@ https://hexed.it/ - Just another instantiation of [Attwood's Law](https://en.wik
 
 ### JavaScript: [Angular 2 Migration](http://angularjs.blogspot.ch/2015/08/angular-1-and-angular-2-coexistence.html)
 
-The supported migration scenario from Angular 1 to Angular 2 will not be based on the Angular New Router (aka. Component Router) any more. The Angular team [posted a sophisticated plan](http://angularjs.blogspot.ch/2015/08/angular-1-and-angular-2-coexistence.html) how migration will look like. It looks interesting, but as far as I gather it's still only a plan, the bits are not available yet ...
+The supported migration scenario from Angular 1 to Angular 2 will not be based on the Angular [New Router](https://github.com/angular/router) (aka. Component Router) any more (it seems as the New Router has been killed as a standalone project anyways). The Angular team [posted a sophisticated plan](http://angularjs.blogspot.ch/2015/08/angular-1-and-angular-2-coexistence.html) how migration will look like. It looks interesting, but as far as I gather it's still only a plan, the bits are not available yet ...
 
 
 ### WebDev: [Phoenix Framework 1.0](http://www.phoenixframework.org/blog)

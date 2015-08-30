@@ -1,7 +1,7 @@
 ---
 tags: weekendreader
 ---
-<img class="jb-main-img" src="https://lh3.googleusercontent.com/-3gylCQ12Wrc/VeLWT-czLQI/AAAAAAAACX8/qw-V8xSWKSI/s912-Ic42/WR35.png">
+<img class="jb-main-img" src="https://lh3.googleusercontent.com/-CeI4VExsMqU/VeLfY2BNCEI/AAAAAAAACYQ/Pf_7Fy9UtXM/s912-Ic42/WR35.png">
 
 
 ### Web Dev: [Stop pushing the web forward](http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html)

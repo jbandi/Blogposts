@@ -6,10 +6,10 @@ tags: weekendreader
 ### Security: [How a bug in Visual Studio 2015 exposed my source code on GitHub and cost me $6,500 in a few hours](https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours)
 
 Wow! Amazon and the Hackers are both continuously scanning public repositories for passwords! 
-This story should make you reconsider where you leave your credit card information... things might get out of hand, even if you think that you are just using free services ...
+This story should make you reconsider where you leave your credit card information... things might get out of hand, even if you think that you are just using a free services ...
 
 ### Agile: [Avoiding the most common pitfall of large-scale agile](http://us2.campaign-archive2.com/?u=abe09ce689751513abf6f095f&id=96b4eb0c7d)
-[Gojko](http://gojko.net/) wrote an interesting article about the current trend of scaleing Agile. Unconventionla as always, he draws anaglogies with "The Lord of the Rings" and escaping a concentration camp in WWII.
+[Gojko](http://gojko.net/) wrote an interesting article about the current trend of scaling Agile. Unconventional as always, he draws anaglogies with "The Lord of the Rings" and escaping a concentration camp in WWII.
 He argues that our industry is obsessed with effort instead of focusing on outcome.
 His main explanaition why Agile does not scale in most attempts is:
 
@@ -22,15 +22,15 @@ His main explanaition why Agile does not scale in most attempts is:
 
 - [What is the salary range of Software Engineers in London?](http://qr.ae/RHfbZ1)
 
-Interesting to see different perspectives. Although I have hard time to take the second answer seriously. In my experience not many enterprises are looking for the mythical "10x engineer" and are willing to pay these extravagant figures ...
+Interesting to see different perspectives. Although I have a hard time to take the second answer seriously. In my experience not many enterprises are looking for the mythical "10x engineer" and are willing to pay these extravagant figures ...
 
 Stack overflow has also [some info about salaries](http://stackoverflow.com/research/developer-survey-2015#work-complang).
 
 
 ### SwissJS: [Videos of the sessions are online](https://www.youtube.com/channel/UCazY0-FMbyK5xwn-lFbfkpw)
 
-If you missed SwissJS in July, the recorded sessions are now available on YouTube.
-If you just want to watch one session, I reccommend ["Creating UIs for the WebA Audio API" by Stephen Band](https://www.youtube.com/watch?v=tSThM9Aw8ps). His usage of the browser to create music is impressive and its a refreshing non-enterprisy topic.
+If you missed SwissJS last July, the recorded sessions are now available on YouTube.
+If you just want to watch one session, I recommend ["Creating UIs for the WebA Audio API" by Stephen Band](https://www.youtube.com/watch?v=tSThM9Aw8ps). His usage of the browser to create music is impressive and its a refreshing non-enterprisy topic.
 
 
 ### Video: [How to make your code sustainable](https://vimeo.com/138774243)

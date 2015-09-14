@@ -6,7 +6,7 @@ tags: weekendreader
 ### Security: [How a bug in Visual Studio 2015 exposed my source code on GitHub and cost me $6,500 in a few hours](https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours)
 
 Wow! Amazon and the Hackers are both continuously scanning public repositories for passwords! 
-This story should make you reconsider where you leave your credit card information... things might get out of hand, even if you think that you are just using a free services ...
+This story should make you reconsider where you leave your credit card information... things might get out of hand, even if you think that you are just using a free service ...
 
 ### Agile: [Avoiding the most common pitfall of large-scale agile](http://us2.campaign-archive2.com/?u=abe09ce689751513abf6f095f&id=96b4eb0c7d)
 [Gojko](http://gojko.net/) wrote an interesting article about the current trend of scaling Agile. Unconventional as always, he draws anaglogies with "The Lord of the Rings" and escaping a concentration camp in WWII.

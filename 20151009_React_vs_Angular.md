@@ -6,13 +6,17 @@ tags: javascript, react, angularjs
 
 I am currently working for a team that is about to build a web frontend for their in-house legacy system. The web frontend is basically a greenfield project, and the team can freely choose their technology stack.
 
-I developed a small technology prototype in [AngularJS](https://angularjs.org/) and [React](https://facebook.github.io/react/). For both solutions I used npm and [webpack](https://webpack.github.io/) as a build environement. In the AngularJS solution I used [TypeScript](http://www.typescriptlang.org/) and in the React solution I used [ES2015](http://www.ecma-international.org/ecma-262/6.0/) (fomrely ES6) and [Babel](https://babeljs.io/).
+I developed a small technology prototype in [AngularJS](https://angularjs.org/) and [React](https://facebook.github.io/react/). For both solutions I used npm and [webpack](https://webpack.github.io/) as a build environement. In the AngularJS solution I used [TypeScript](http://www.typescriptlang.org/) and in the React solution I used [ES2015](http://www.ecma-international.org/ecma-262/6.0/) (formerly ES6) and [Babel](https://babeljs.io/).
 
 The prototype is here: https://bitbucket.org/jonasbandi/webshop/
 
 I presented both solutions to the team, and let them decide which stack they like to choose for the actual project.
 
 The team decided that they felt more comfortable with the solution based on React.
+
+
+----------
+
 
 There were two main reasons:
 

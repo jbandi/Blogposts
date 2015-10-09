@@ -17,7 +17,7 @@ The team decided that they felt more comfortable with the solution based on Reac
 There were two main reasons:
 
 - AngularJS is currently in a strange state, since Angular 2.0 is announced and hyped but not ready for production yet. If you start a project based on AngularJS now, you get the feeling that you are writing in a legacy technology right from the beginning.
-- The React solution left a conciser impression and was clearer to grasp by the team. For example to realize a "component" in AngularJS you have to understand Directives (a DDO is pretty arcane for a newbie) and the implementation is spread over several entities (DDO, Controller, template ...). In contrast to that the approach of React to components is much easier to grasp.
+- The React solution left a conciser impression and was clearer to grasp by the team. For example to realize a "component" in AngularJS you have to understand Directives (a DDO is pretty arcane for a newbie) and the implementation is spread over several entities (DDO, controller, template ...). In contrast to that the approach of React to components is much easier to grasp.
 
 This decision was made some weeks ago. In the meantime I set up the real project with the following components:
 

@@ -23,6 +23,6 @@ This decision was made some weeks ago. In the meantime I set up the real project
 
 - A Build based on npm, [webpack](https://webpack.github.io/), [Babel](https://babeljs.io/) and [ESLint](http://eslint.org/) (no gulp or grunt)
 - [React](https://facebook.github.io/react/) 0.14 / [ReactRouter](https://github.com/rackt/react-router) 1.0
-- Flux Architecture based on [Alt.js](http://alt.js.org/)
+- Flux architecture based on [Alt.js](http://alt.js.org/)
 - Internationalization with [i18next](http://i18next.com/)
 

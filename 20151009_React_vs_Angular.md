@@ -14,10 +14,6 @@ I presented both solutions to the team, and let them decide which stack they lik
 
 The team decided that they felt more comfortable with the solution based on React.
 
-
-----------
-
-
 There were two main reasons:
 
 - AngularJS is currently in a strange state, since Angular 2.0 is announced and hyped (but not ready for production yet). If you start a project based on AngularJS now, you get the feeling that you are writing in a legacy technology right from the beginning.

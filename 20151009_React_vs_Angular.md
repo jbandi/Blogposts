@@ -12,7 +12,7 @@ The prototype is here: https://bitbucket.org/jonasbandi/webshop/
 
 I presented both solutions to the team, and let them decide which stack they like to choose for the actual project.
 
-The team decided that they felt more confortable with the solution based on React.
+The team decided that they felt more comfortable with the solution based on React.
 
 There were two main reasons:
 

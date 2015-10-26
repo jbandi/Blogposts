@@ -1,7 +1,7 @@
 ---
 tags: weekendreader
 ---
-<img class="jb-main-img" src="https://lh3.googleusercontent.com/-9DpPN68Nfvk/Vi1x36R6dUI/AAAAAAAACcs/abYYYWFK68o/s1024-Ic42/WR43.png">
+<img class="jb-main-img" src="https://lh3.googleusercontent.com/-gpldbn3opSM/Vi1zbjeSvXI/AAAAAAAACc8/9aZWvPgCAy4/s1024-Ic42/WR43.png">
 
 ### [Angular Connect](http://angularconnect.com/)
 

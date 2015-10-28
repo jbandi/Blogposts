@@ -2,12 +2,12 @@
 tags: javascript, presentation
 ---
 
-[<img class="jb-main-img" src="https://lh3.googleusercontent.com/-L-Qi0hOZb_M/ViwjJZ9sE2I/AAAAAAAACcQ/vzKs5av_A9M/s406-Ic42/JS-Tools.png">](http://www.ivorycode.com/#schulung)
+[<img class="jb-main-img" src="https://lh3.googleusercontent.com/-7yXWhaWbBx8/VjE5N-6XQ5I/AAAAAAAACeQ/NNNUIDcm3JY/s800-Ic42/JS-Tools3.png">](http://www.ivorycode.com/#schulung)
 
 
-During winter 2015/16 I will deliver inhouse courses about development with JavaScript and AngularJS to teams at **Puzzle ITC**, **mtrail GmbH**, **Mobilar**, **Postfinance** and **SBB**.
+During winter 2015/16 I will deliver inhouse courses about development with JavaScript and AngularJS to teams at **Puzzle ITC**, **mtrail GmbH**, **Mobiliar**, **Postfinance** and **SBB**.
 
-I will also deliver public courses for DigiComp and TechTalk:
+I will also deliver public courses for **DigiComp** and **TechTalk**:
 
 [<img class="jb-main-img" src="http://jonasbandi.net/blog/digi_logo.png">](https://www.digicomp.ch/weiterbildung/softwareentwicklung/web-und-mobile-app-entwicklung/webentwicklung/frontend-entwicklung-mit-angularjs)
 

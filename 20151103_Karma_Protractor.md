@@ -4,7 +4,7 @@ tags: javascript, testing
 
 For my [JavaScript / AngularJS workshops](http://www.ivorycode.com/#schulung) I created two illustrations to explain how unit-testing with Karma and end-to-end-testing with Protactor is working:
 
-<img class="jb-main-img" property="og:image"  src="https://lh6.googleusercontent.com/-OljkzU3s2GA/VTLHyfZ_yYI/AAAAAAAACKk/rZuoy8AvE8Y/w1024-h768-no/Karma.jpg" width="600px"/>
+<img class="jb-main-img" property="og:image"  src="https://lh3.googleusercontent.com/-UGdJAD7BSgQ/Vjk5XBcUsPI/AAAAAAAACfI/cqPiLPeaINA/s1024-Ic42/Karma.jpg" width="600px"/>
 
 
 <img class="jb-main-img" property="og:image"  src="https://lh6.googleusercontent.com/-57e_I3NlcRQ/VTLHygh_5_I/AAAAAAAACKo/kLsPoEw5CPI/w1024-h768-no/Protractor.jpg" width="600px"/>

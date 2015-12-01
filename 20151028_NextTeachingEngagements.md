@@ -21,3 +21,5 @@ The course will take place:
 - [November 16th - 18th 2015 in Vienna](http://www.techtalk.ch/TechTalk/Events/Front-End-Entwicklung-mit-JavaScript-November-2015)
 - [January 25th - 27th 2016 in Zürich](http://www.techtalk.ch/TechTalk/Events/Front-End-Entwicklung-mit-JavaScript-2016)
 ... there are still places left.
+
+Update 2015-12-01: [Here is a nice summary](http://logbuch.techtalk.at/post/134272859246/bericht-vom-javascript-training-mit-jonas-bandi) from a participant of the course in Vienna.

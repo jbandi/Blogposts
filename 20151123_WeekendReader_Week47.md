@@ -1,6 +1,5 @@
 
-<img class="jb-main-img" src="https://lh3.googleusercontent.com/-gKZMJTB1GpE/VlJg022lzCI/AAAAAAAACgw/NKJKcHZWCss/s912-Ic42/Bower_Dead.png
-">
+<img class="jb-main-img" src="https://lh3.googleusercontent.com/-gKZMJTB1GpE/VlJg022lzCI/AAAAAAAACgw/NKJKcHZWCss/s912-Ic42/Bower_Dead.png">
 
 ### [Highlights from AngularConnect 2015 ](http://angularjs.blogspot.ch/2015/11/highlights-from-angularconnect-2015.html)
 
